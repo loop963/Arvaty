@@ -1,2 +1,2 @@
-# ENV=UUID=VER
+# UUID VER
 
